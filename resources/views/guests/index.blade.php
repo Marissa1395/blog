@@ -17,7 +17,7 @@
             <div class="blog-container">
                 <div class="row align-items-start">
                   <div class="line"></div>
-                  <h1>Hi I'm Marissa Dumayac</h1>
+                  <h1>Hi I'm, Marissa Dumayac</h1>
                   <p>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor</p>
                   <button>READ MORE</button>
                 </div>

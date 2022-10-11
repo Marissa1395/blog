@@ -1,6 +1,6 @@
 <div class="soc-med">
     <h1 class="l-heading anim1">
-      <span>Follow @ social media</span><p>
+      <span>Follow on social media</span><p>
       <a href="https://pin.it/6kxwsW1"><i class="fa fa-pinterest"></i></a>
       <a href="https://www.facebook.com/marissa.dumayac"><i class="fa fa-facebook"></i></a>
       <a href="https://www.instagram.com/ysang1395/"><i class="fa fa-instagram"></i></a>

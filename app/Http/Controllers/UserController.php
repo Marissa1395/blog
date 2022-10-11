@@ -6,8 +6,7 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function showProfile()
-    {
-        return view();
+    public function show(){
+        return view('guests.about');
     }
 }
