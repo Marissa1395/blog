@@ -22,10 +22,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js"></script>
 </head>
 <body>
+    <header class="row">
+        @include('layouts.nav-header')
+        @include('layouts.header')
+    </header>
     <div class="container">
-        <header class="row">
-            @include('layouts.header')
-        </header>
         <div id="main" class="row">
                 @yield('content')
         </div>
